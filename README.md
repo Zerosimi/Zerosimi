@@ -6,15 +6,15 @@
 - 💻 My expertise is modelling and differential optical absorption spectroscopy
 - ⚡ Fun fact: I just launched my first Application
 
-### Fun Project
+### Application
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://recipie.de/wp-content/uploads/2021/06/Recipie.png" />][website]
 
 <br />
 
-### Connect with me:
+<!-- ### Connect with me:
 
 [<img align="left" alt="Zerosimi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Zerosimi | Researchgate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate]
+[<img align="left" alt="Zerosimi | Researchgate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate] -->
 
 <br />
 
@@ -26,7 +26,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="Mathematica" width="26px" src="https://recipie.de/wp-content/uploads/2021/10/mathematica.png" />
+[<img align="left" alt="Mathematica" width="26px" src="https://recipie.de/wp-content/uploads/2021/10/mathematica.png" />][https://en.wikipedia.org/wiki/File:Antu_mathematica.svg]
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
