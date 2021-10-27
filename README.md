@@ -1,18 +1,17 @@
 ### Hi there, I'm Simon - aka Zerosimi 👋
 
-## I'm a physics student in my masters!!
+## I'm a physics student in my masters 👨‍🎓
 
-- 🔭 Currently working in environmental physics
-- 🌱 My expertise is modelling and differential optical absorption spectroscopy
+- 📖 Currently working in environmental physics
+- 💻 My expertise is modelling and differential optical absorption spectroscopy
 - ⚡ Fun fact: I just launched my first Application
 
 ### Fun Project
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://recipie.de/wp-content/uploads/2021/06/Recipie.png" />][website]
 
 <br />
 
 ### Connect with me:
-
 
 [<img align="left" alt="Zerosimi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Zerosimi | Researchgate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate]
