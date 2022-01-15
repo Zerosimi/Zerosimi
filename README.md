@@ -3,8 +3,8 @@
 ## I'm a physics student in my masters 👨‍🎓
 
 - 📖 Currently working in environmental physics
-- 💻 My expertise is modelling and differential optical absorption spectroscopy
-- ⚡ Fun fact: I just launched my first Application
+- 💻 Modeling the atmosphere and using differential optical absorption spectroscopy for analysis
+- ⚡ Fun fact: I coded an application for cooking recipes
 
 ### Application
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://recipie.de/wp-content/uploads/2021/06/Recipie.png" />][website]
@@ -35,6 +35,6 @@
 <br />
 
 [website]: https://recipie.de
-[linkedin]: https://recipie.de
+[linkedin]: www.linkedin.com/in/simon-bittner-b62847228
 [researchgate]: https://recipie.de
 [license]: https://en.wikipedia.org/wiki/File:Antu_mathematica.svg
