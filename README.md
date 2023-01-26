@@ -1,10 +1,11 @@
 ### Hi there, I'm Simon - aka Zerosimi 👋
 
-## I'm a physics student in my masters 👨‍🎓
+## I'm currently working on my PhD in physics. 👨‍🎓
 
-- 📖 Currently working in environmental physics
-- 💻 Modeling the atmosphere and using differential optical absorption spectroscopy for analysis
-- ⚡ Fun fact: I coded an application for cooking recipes
+- 🔍 Currently working in environmental physics. Investigating the ratio of formaldehyde and glyoxal in the troposphere.
+- 💻 Modeling the transport of chemicals with WRF-Chem and Flexpart. Development of box model to include chemical mechanism.
+- 🔭 Using differential optical absorption spectroscopy to investigate trace gas concentrations in the atmosphere.
+- ⚡  Fun fact: I coded an application for cooking recipes
 
 ### Application
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://recipie.de/wp-content/uploads/2021/06/Recipie.png" />][website]
