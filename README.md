@@ -7,16 +7,6 @@
 - 🔭 Using differential optical absorption spectroscopy to investigate trace gas concentrations in the atmosphere.
 - ⚡  Fun fact: I coded an application for cooking recipes
 
-## Overview:
-
-<div align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-         align="center" 
-         src="https://github-readme-stats.vercel.app/api/?username=zerosimi&theme=material-palenight&show_icons=true&icon_color=7f64a4&rank_icon=github" 
-         alt="Zerosimi's Github Stats" />
-  </a>
-</div>
 
 ### Languages and Tools:
 
